@@ -51,7 +51,7 @@ The most common mistakes were between sounds that are similar: jackhammer called
 
 ### Temporal stability
 
-![Temporal stability by class](stability_by_class.png)
+<img width="1650" height="750" alt="a08cbbf8-3696-4e33-b9d2-db265fa4938e" src="https://github.com/user-attachments/assets/9e44d805-5286-44c7-bfbc-7b422e3627ba" />
 
 Sirens were the steadiest: on average 87% of a siren clip's windows agreed with each other, and the label switched between neighboring windows only 8% of the time. Air conditioner and drilling had the lowest consistency, and air conditioner switched the most (20%) and was also the least accurate class.
 
