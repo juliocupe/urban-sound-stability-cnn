@@ -2,7 +2,8 @@
 
 Urban sound classification with a small CNN, plus a test of how steady its predictions stay over time. I did this during my 2026 ASPIRE internship at the Johns Hopkins Applied Physics Laboratory.
 
-<img width="799" height="599" alt="postermachineslisten" src="https://github.com/user-attachments/assets/97e49493-dedb-43ac-8295-203bc958d5aa" />
+<img width="799" height="599" alt="postermachineslisten" src="https://github.com/user-attachments/assets/203f5daa-3aec-4d15-8604-671cbbd2e2dd" />
+
 
 ## Why I built it
 
